@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Kevin Molumphy — Personal Portfolio
 
-TODO: Document your project here
+Personal portfolio site built with React, Vite, TypeScript, and Tailwind CSS.
